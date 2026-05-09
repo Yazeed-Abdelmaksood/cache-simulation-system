@@ -64,16 +64,20 @@ W;0xAD6;0x23
 
 # 3: Yazeed
 
-• sc_main/C++ Function:
-    Sets up the SystemC simulation environment, including module initialization, connections, and simulation start based on user input.
-• 4-Way Set-Associative Cache:
-    Implements a 4-way set-associative cache using unordered_map for efficient data access and list for managing cache lines.
-• Memory Module:
-    Simulates basic memory operations with unordered_map for efficient access, handling read and write operations.
-• FIFO Cache Replacement Policy:
-    Manages cache data with a FIFO (First-In-First-Out) policy to determine which cache line to evict.
-• Cache and Memory Latency Simulation:
-    Models realistic memory access times by simulating both cache and memory latencies.
+- **sc_main / C++ Function**  
+  Sets up the SystemC simulation environment, including module initialization, connections, and simulation start based on user input.
+
+- **4-Way Set-Associative Cache**  
+  Implements a 4-way set-associative cache using `unordered_map` for efficient data access and `list` for managing cache lines.
+
+- **Memory Module**  
+  Simulates basic memory operations with `unordered_map` for efficient access, handling read and write operations.
+
+- **FIFO Cache Replacement Policy**  
+  Manages cache data with a FIFO (First-In-First-Out) policy to determine which cache line to evict.
+
+- **Cache and Memory Latency Simulation**  
+  Models realistic memory access times by simulating both cache and memory latencies.
 
 # 4 : Samhitha
 
@@ -82,11 +86,11 @@ W;0xAD6;0x23
 
 # 5 : Adrian
 
-Implementation of the complete C program
-Research about sizes of modern caches
-Research about latencies of modern caches
-Research about SelectionSort
-Creation of the example csv files
+- Implementation of the complete C program
+- Research about sizes of modern caches
+- Research about latencies of modern caches
+- Research about SelectionSort
+- Creation of the example csv files
 
 # 6 : Problems
 
