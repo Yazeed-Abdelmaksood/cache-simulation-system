@@ -1,0 +1,8 @@
+# Compiled source #
+###################
+*.o
+systemcc
+main
+src/*.o
+
+
